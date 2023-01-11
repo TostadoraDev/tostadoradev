@@ -1,3 +1,7 @@
+###¡Hola! Bienvenidos
+¡Hey! Me presento, soy TostadoraDev, soy un random que le gusta crear bots de discord :D
+
+###Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tostadoradev&show_icons=true&layout=compact&theme=dark)](https://github.com/TostadoraDev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tostadoradev&layout=compact&theme=dark)](https://github.com/TostadoraDev)
