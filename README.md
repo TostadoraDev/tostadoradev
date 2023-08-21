@@ -12,7 +12,7 @@ SoyTostadoraDev es un chico con menos de 16 años de edad que inició el mundo d
    <a href="https://github.com/TostadoraDev"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/TostadoraDev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
  </p>
 
- # Conozco
+ ## Conozco
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -24,7 +24,8 @@ SoyTostadoraDev es un chico con menos de 16 años de edad que inició el mundo d
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" />
  
 
-## Stats
+
+### Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tostadoradev&show_icons=true&layout=compact&theme=dark)](https://github.com/TostadoraDev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tostadoradev&layout=compact&theme=dark)](https://github.com/TostadoraDev)
