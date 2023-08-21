@@ -32,6 +32,15 @@ SoyTostadoraDev es un chico con menos de 16 años de edad que inició el mundo d
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tostadoradev&layout=compact&theme=dark)](https://github.com/TostadoraDev)
 
+### Mis activades aquí
+
+<p align="center">
+  <a href="https://github.com/Thinkright20">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TostadoraDev&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
+
+
 <!--
 **TostadoraDev/tostadoradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
