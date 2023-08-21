@@ -37,7 +37,7 @@ SoyTostadoraDev es un chico con menos de 16 años de edad que inició el mundo d
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tostadoradev&layout=compact&theme=gruvbox" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tostadoradev&layout=compact&theme=dark" /></a>
 </p>
 
 #
