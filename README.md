@@ -8,7 +8,7 @@
 </p>
 
 
-SoyTostadoraDev es un chico con menos de 16 años de edad que inició el mundo de las computadoras desde el 2020, creando su primer bot, "Spectre", luego inició con "NekoBot" luego "IamNotAbot" y su última creación "KillerBot"; más conocido en la comunidad como "Tostadora".
+SoyTostadoraDev es un chico con menos de 16 años de edad que inició el mundo de las computadoras desde el 2020, creando su primer bot, "Spectre", luego inició con "NekoBot" luego "IamNotAbot" y su última creación "KillerBot"; más conocido en la comunidad como "Tostadora"; me gusta la música, de hecho, se tocar 4 instrumentos que son el violín (iniciando), piano (medio), flauta dulce, guitarra (iniciando) y además, intento ser productor músicial.
 
 <p align="center">
   <!--<a href="https://discord.gg/79ucHtZn5w"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
