@@ -2,7 +2,10 @@
 
 **`A kid developing discord bots and roblox games...`**
 
-[![https://github.com/TostadoraDev](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%2B2+a%C3%B1os+en+programaci%C3%B3n+b%C3%A1sica;Desarrollador+de+FlufflyCat+%26+Lunal;Owner+De+killerBot+y+StromReach)](https://github.com/TostadoraDev)
+
+<c align="center">
+<img alt="Idk" title="Idk" src="https://github.com/TostadoraDev](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%2B2+a%C3%B1os+en+programaci%C3%B3n+b%C3%A1sica;Desarrollador+de+FlufflyCat+%26+Lunal;Owner+De+killerBot+y+StromReach"/></a>
+</c>
 
 SoyTostadoraDev es un chico con menos de 16 años de edad que inició el mundo de las computadoras desde el 2020, creando su primer bot, "Spectre", luego inició con "NekoBot" luego "IamNotAbot" y su última creación "KillerBot"; más conocido en la comunidad como "Tostadora".
 
