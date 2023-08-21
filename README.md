@@ -27,20 +27,31 @@ SoyTostadoraDev es un chico con menos de 16 años de edad que inició el mundo d
 <br />
 
 
+---
+
+<p align="center">
+  <a href="https://github.com/TostadoraDev">      
+<img title="stats" alt="streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tostadoradev&layout=compact&theme=dark)](https://github.com/TostadoraDev"/>
+</a> 
+</p>
+
+
 #
  
-### Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tostadoradev&show_icons=true&layout=compact&theme=dark)](https://github.com/TostadoraDev)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tostadoradev&layout=compact&theme=dark)](https://github.com/TostadoraDev)
-
 ### Mis activades aquí
 
 <p align="center">
-  <a href="https://github.com/Thinkright20">      
+  <a href="https://github.com/TostadoraDev">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TostadoraDev&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
+
+<p align="center">
+  <a href="https://github.com/TostadoraDev">      
+<img title="stats" alt="streak" src="https://github-readme-stats.vercel.app/api?username=tostadoradev&show_icons=true&layout=compact&theme=dark)](https://github.com/TostadoraDev"/>
+</a> 
+</p>
+
 
 
 <!--
