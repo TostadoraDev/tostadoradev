@@ -8,7 +8,7 @@ SoyTostadoraDev es un chico con menos de 16 años de edad que inició el mundo d
   <a href="https://www.youtube.com/c/Thinkright20"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>-->
 
 <a href="https://github.com/TostadoraDev?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Thinkright20?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TostadoraDev?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
    <a href="https://github.com/TostadoraDev"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/TostadoraDev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
  </p>
  
