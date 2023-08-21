@@ -36,6 +36,15 @@ SoyTostadoraDev es un chico con menos de 16 años de edad que inició el mundo d
 
 ---
 
+## ¿Qué hago?
+- 🤖 Trabajando en KillerBot, Lunal & FluffyCat.
+- ✨ Mejorando en Node y Lua cada vez más.
+- 🎵 Escuchando música.
+- 🎻 Aprendiendo instrumentos músicales.
+- Más
+
+---
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tostadoradev&theme=dark" /></a>
 </p>
@@ -52,6 +61,9 @@ SoyTostadoraDev es un chico con menos de 16 años de edad que inició el mundo d
 <img src="https://github-readme-stats.vercel.app/api?username=tostadoradev&show_icons=true&theme=dark" /></a>
 </p>
 
+---
+
+Contantame en discord como "soytostadoradev" o en roblox como "SoyTostadoraDev".
 
 
 <!--
