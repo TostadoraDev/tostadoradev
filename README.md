@@ -1,5 +1,5 @@
-# ¡Hola! Bienvenidos
-¡Hey! Me presento, soy TostadoraDev, soy un random que le gusta crear bots de discord :D
+# Official TostadoraDev Github's profile!
+**`A kid developing discord bots and roblox games...`**
 
 ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tostadoradev&show_icons=true&layout=compact&theme=dark)](https://github.com/TostadoraDev)
