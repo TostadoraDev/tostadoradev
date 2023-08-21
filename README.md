@@ -45,12 +45,13 @@ SoyTostadoraDev es un chico con menos de 16 años de edad que inició el mundo d
 ### Mis activades aquí
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TostadoraDev&theme=dark&hide_border=true&stroke=f53b3b" /></a>
+<img src="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TostadoraDev&theme=dark&hide_border=true&stroke=f53b3b" /></a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TostadoraDev&theme=dark&hide_border=true&stroke=f53b3b" /></a>
+<img src="streak" src="https://github-readme-stats.vercel.app/api?username=tostadoradev&show_icons=true&layout=compact&theme=dark" /></a>
 </p>
+
 
 
 <!--
