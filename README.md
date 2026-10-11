@@ -1,8 +1,11 @@
 <p align="center">
 <img src="./assets/banner.gif" /></a>
-</p>
 
-# Official TostadoraDev Github's profile!
+
+# Hello, I'm ToastDev
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /></div>
+
+</p>
 
 **`A kid developing discord bots and roblox games...`**
 
