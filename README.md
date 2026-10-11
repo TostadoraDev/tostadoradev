@@ -1,3 +1,7 @@
+<p align="center">
+<img src="./assets/banner.gif" /></a>
+</p>
+
 # Official TostadoraDev Github's profile!
 
 **`A kid developing discord bots and roblox games...`**
