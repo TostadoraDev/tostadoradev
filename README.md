@@ -6,18 +6,15 @@
 
 ---
 
-<div lign="center" style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /></div>
-
 <p align="center">
   <code>Mechatronics student who codes, lol.</code>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%2B2+a%C3%B1os+en+programaci%C3%B3n+b%C3%A1sica;Desarrollador+de+FlufflyCat+%26+Lunal;Owner+De+killerBot+y+StromReach" /></a>
-</p>
-
+<h2 align="center">About me</h2>
 
 SoyTostadoraDev es un chico con menos de 16 años de edad que inició el mundo de las computadoras desde el 2020, creando su primer bot, "Spectre", luego inició con "NekoBot" luego "IamNotAbot" y su última creación "KillerBot"; más conocido en la comunidad como "Tostadora"; me gusta la música, de hecho, se tocar 4 instrumentos que son el violín (iniciando), piano (medio), flauta dulce, guitarra (iniciando) y además, intento ser productor músicial.
+
+<div align="center" style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /></div>
 
 <p align="center">
   <!--<a href="https://discord.gg/79ucHtZn5w"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
