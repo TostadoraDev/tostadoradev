@@ -8,7 +8,9 @@
 
 <div lign="center" style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /></div>
 
-<p align="center">**`Mechatronical Student making coding lol`**</p>
+<p align="center">
+**`Mechatronical Student making coding lol`** 
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%2B2+a%C3%B1os+en+programaci%C3%B3n+b%C3%A1sica;Desarrollador+de+FlufflyCat+%26+Lunal;Owner+De+killerBot+y+StromReach" /></a>
