@@ -9,7 +9,7 @@
 <div lign="center" style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /></div>
 
 <p align="center">
-**`Mechatronical Student making coding lol`** 
+`Mechatronical Student making coding lol`
 </p>
 
 <p align="center">
