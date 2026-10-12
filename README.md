@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./assets/banner.gif" /></a>
+<img src="./assets/bannerv2.gif" /></a>
 
 
 <h1 align="center">Hello 👋, this is ToastDev on the beat! 🎵🔥</h1>
