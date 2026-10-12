@@ -100,3 +100,6 @@
     </td>
   </tr>
 </table>
+
+<!-- MUSIC-GALLERY:START -->
+<!-- MUSIC-GALLERY:END -->
