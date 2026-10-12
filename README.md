@@ -2,7 +2,7 @@
 <img src="./assets/banner.gif" /></a>
 
 
-<h1 align="center">Hello👋 ladies and gentleman!, this is ToastDev on the beat! 🎵🔥</h1>
+<h1 align="center">Hello 👋, this is ToastDev on the beat! 🎵🔥</h1>
 
 ---
 
