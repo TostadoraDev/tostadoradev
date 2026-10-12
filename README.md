@@ -20,7 +20,7 @@
 <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" /></div>
-<h2 align="center">I'm a teenager who wants to create unusual things using computers <img src="./assets/spinning.gif" width="60" height="60"></img> </h2>
+<h2 align="center"><img src="./assets/spinning.gif" width="60" height="60"></img> I'm a teenager who wants to create unusual things using computers</img> </h2>
 <p align="center">When I was 10 years old, I wrote my first "Hello, World!" program. A few years ago, I also built a traffic light system using Arduino. These experiences sparked my interest in science and engineering, and I've considered studying fields such as informatics, pharmaceutical chemistry, computer science, and mechatronics (my current goal). I want to create weird but useful projects that everyone can enjoy and use. :)</p>
 <br/>
 
