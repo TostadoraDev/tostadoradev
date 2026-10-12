@@ -117,19 +117,19 @@
       <sub>Omar Courtz</sub>
     </td>
     <td align="center" valign="top" width="175">
-      <a href="https://open.spotify.com/intl-es/album/4FftCsAcXXD1nFO9RFUNFO"><img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e022ea1f035463d11e1fc3b193d" width="145" alt="nadie sabe lo que va a pasar mañana album cover" /></a><br/>
+      <a href="https://open.spotify.com/intl-es/album/4FftCsAcXXD1nFO9RFUNFO"><img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e022ea1f035463d11e1fc3b193d" width="145" alt="nadie sabe lo que va a pasar mañana album cover" /></a><br/>
       <strong>nadie sabe lo que va a pasar mañana</strong><br/>
       <sub>Bad Bunny</sub>
     </td>
     <td align="center" valign="top" width="175">
-      <a href="https://open.spotify.com/intl-es/album/7Lv6VzSqIz1sAssK2JUskG"><img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02ef88ad49166e31598ff7d4d0" width="145" alt="$AD BOYZ 4 LIFE II album cover" /></a><br/>
+      <a href="https://open.spotify.com/intl-es/album/7Lv6VzSqIz1sAssK2JUskG"><img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02ef88ad49166e31598ff7d4d0" width="145" alt="$AD BOYZ 4 LIFE II album cover" /></a><br/>
       <strong>$AD BOYZ 4 LIFE II</strong><br/>
       <sub>Junior H</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="175">
-      <a href="https://open.spotify.com/intl-es/album/3iPSVi54hsacKKl1xIR2eH"><img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02fd8d7a8d96871e791cb1f626" width="145" alt="Short n&#x27; Sweet album cover" /></a><br/>
+      <a href="https://open.spotify.com/intl-es/album/3iPSVi54hsacKKl1xIR2eH"><img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02fd8d7a8d96871e791cb1f626" width="145" alt="Short n&#x27; Sweet album cover" /></a><br/>
       <strong>Short n&#x27; Sweet</strong><br/>
       <sub>Sabrina Carpenter</sub>
     </td>
@@ -139,12 +139,12 @@
       <sub>Katy Perry</sub>
     </td>
     <td align="center" valign="top" width="175">
-      <a href="https://open.spotify.com/intl-es/album/5lJqux7orBlA1QzyiBGti1"><img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02548f7ec52da7313de0c5e4a0" width="145" alt="YHLQMDLG album cover" /></a><br/>
-      <strong>YHLQMDLG</strong><br/>
-      <sub>Bad Bunny</sub>
+      <a href="https://open.spotify.com/intl-es/album/4jox3ip1I39DFC2B7R5qLH"><img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e022fb583ed96f8f35cbf2897ba" width="145" alt="GÉNESIS album cover" /></a><br/>
+      <strong>GÉNESIS</strong><br/>
+      <sub>Peso Pluma</sub>
     </td>
     <td align="center" valign="top" width="175">
-      <a href="https://open.spotify.com/intl-es/album/4eLPsYPBmXABThSJ821sqY"><img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e028b52c6b9bc4e43d873869699" width="145" alt="DAMN. album cover" /></a><br/>
+      <a href="https://open.spotify.com/intl-es/album/4eLPsYPBmXABThSJ821sqY"><img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e028b52c6b9bc4e43d873869699" width="145" alt="DAMN. album cover" /></a><br/>
       <strong>DAMN.</strong><br/>
       <sub>Kendrick Lamar</sub>
     </td>
