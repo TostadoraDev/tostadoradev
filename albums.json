@@ -1,8 +1,8 @@
 [
-  {"artist": "Tainy", "album": "DATA"},
-  {"artist": "Omar Courtz", "album": "PRIMERA MUSA"},
-  {"artist": "Bad Bunny", "album": "nadie sabe lo que va a pasar mañana"},
-  {"artist": "Junir H", "album": "$AD BOYZ 4 LIFE II"},
-  {"artist": "Katy Perry", "album": "PRISM"},
-  {"artist": "Kendrick Lamar", "album": "DAMN."}
+  {"artist": "Tainy", "album": "DATA", "url": "https://open.spotify.com/intl-es/album/2X6WyzpxY70eUn3lnewB7d"},
+  {"artist": "Omar Courtz", "album": "PRIMERA MUSA", "url": "https://open.spotify.com/intl-es/album/3C5uwdRE5QRoXSGPPxpDd4"},
+  {"artist": "Bad Bunny", "album": "nadie sabe lo que va a pasar mañana", "url": "https://open.spotify.com/intl-es/album/4FftCsAcXXD1nFO9RFUNFO"},
+  {"artist": "Junior H", "album": "$AD BOYZ 4 LIFE II", "url": "https://open.spotify.com/intl-es/album/7Lv6VzSqIz1sAssK2JUskG"},
+  {"artist": "Katy Perry", "album": "PRISM", "url": "https://open.spotify.com/intl-es/album/3jB9yFDwRe3KhtGnHXJntk"},
+  {"artist": "Kendrick Lamar", "album": "DAMN.", "url": "https://open.spotify.com/intl-es/album/4eLPsYPBmXABThSJ821sqY"}
 ]
