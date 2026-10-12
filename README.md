@@ -22,3 +22,77 @@
 <h2 align="center"><img src="./assets/spinning.gif" width="30" height="30"></img> I'm a teenager who wants to create unusual things using computers</img> </h2>
 <p align="center">When I was 10 years old, I wrote my first "Hello, World!" program. A few years ago, I also built a traffic light system using Arduino. These experiences sparked my interest in science and engineering, and I've considered studying fields such as informatics, pharmaceutical chemistry, computer science, and mechatronics (my current goal). I want to create weird but useful projects that everyone can enjoy and use. :)</p>
 <br/>
+
+
+<table align="center">
+  <tr>
+    <th align="center">YASLA</th>
+    <th align="center">KillerBot</th>
+    <th align="center">StormReach</th>
+    <th align="center">Clairune</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/yasla.png" width="85" alt="YASLA" />
+    </td>
+    <td align="center">
+      <img src="./assets/killerbot.png" width="85" alt="KillerBot" />
+    </td>
+    <td align="center">
+      <img src="./assets/stormreach.png" width="85" alt="StormReach" />
+    </td>
+    <td align="center">
+      <img src="./assets/clairune.png" width="85" alt="Clairune" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      An Android app for synchronized lyrics
+    </td>
+    <td align="center">
+      A multipurpose Discord bot
+    </td>
+    <td align="center">
+      A fantasy Roblox experience
+    </td>
+    <td align="center">
+      Coming soon...
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <code>Kotlin</code>
+    </td>
+    <td align="center">
+      <code>JavaScript</code>
+    </td>
+    <td align="center">
+      <code>Luau</code>
+    </td>
+    <td align="center">
+      <code>TBA</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/USERNAME/YASLA">
+        View Project ↗
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/USERNAME/KillerBot">
+        View Project ↗
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/USERNAME/StormReach">
+        View Project ↗
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/USERNAME/Clairune">
+        View Project ↗
+      </a>
+    </td>
+  </tr>
+</table>
