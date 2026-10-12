@@ -27,7 +27,7 @@
   When I was 10 years old, I wrote my first "Hello, World!" program. A few years ago, I also built a traffic light system using Arduino. These experiences sparked my interest in science and engineering, and I've considered studying fields such as informatics, pharmaceutical chemistry, computer science, and mechatronics (my current goal). I want to create weird but useful projects that everyone can enjoy and use. :)
 </p>
 
-<h1 align="center"><img src="./assets/minic.gif" width="30" height="30"></img> Projects</h2>
+<h1 align="center"><img src="./assets/minic.png" width="30" height="30"></img> Projects</h2>
 <table align="center">
   <tr>
     <th align="center">YASLA</th>
