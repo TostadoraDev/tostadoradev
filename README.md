@@ -101,7 +101,8 @@
   </tr>
 </table>
 
-<h1 align="center"><img src="./assets/spinning.gif" width="30" height="30"></img> Favorite songs/albums / [Project](https://github.com/TostadoraDev/coverflow)</h2>
+<h1 align="center"><img src="./assets/spinning.gif" width="30" height="30"></img> Favorite songs/albums</h2>
+[Project](https://github.com/TostadoraDev/coverflow)
 
 <!-- MUSIC-GALLERY:START -->
 <table align="center">
