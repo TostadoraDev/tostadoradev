@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="center">
-  <img src="./assets/pochacco.gif" width="30" height="30"></img> 
+  <img src="./assets/spinning.gif" width="30" height="30"></img> 
   I'm a teenager who wants to create unusual things using computers
 </h3>
 
@@ -101,7 +101,7 @@
   </tr>
 </table>
 
-<h1 align="center"><img src="./assets/spinning.gif" width="30" height="30"></img> Favorite songs/albums</h2>
+<h1 align="center"><img src="./assets/pochacco.gif" width="30" height="30"></img> Favorite songs/albums</h2>
 
 <!-- MUSIC-GALLERY:START -->
 <table align="center">
