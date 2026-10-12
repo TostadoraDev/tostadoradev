@@ -100,3 +100,21 @@
     </td>
   </tr>
 </table>
+
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://open.spotify.com/album/ID_DEL_ALBUM">
+        <img src="./assets/prism.jpg" width="130" alt="PRISM" />
+      </a>
+    </td>
+    <td>
+      <strong>PRISM</strong><br/>
+      Katy Perry<br/>
+      <sub>2013 · Pop</sub><br/>
+      <sub>💿 Favorite album</sub>
+    </td>
+  </tr>
+</table>
+
