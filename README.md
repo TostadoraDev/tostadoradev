@@ -103,8 +103,6 @@
 
 <h1 align="center"><img src="./assets/spinning.gif" width="30" height="30"></img> Favorite songs/albums</h2>
 
-[Project Link](https://github.com/TostadoraDev/coverflow "Check out Coverflow!")
-
 <!-- MUSIC-GALLERY:START -->
 <table align="center">
   <tr>
@@ -153,3 +151,5 @@
   </tr>
 </table>
 <!-- MUSIC-GALLERY:END -->
+
+[Project Link](https://github.com/TostadoraDev/coverflow "Check out Coverflow!") :)
