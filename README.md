@@ -12,7 +12,7 @@
 
 <h2 align="center">About me</h2>
 
-SoyTostadoraDev es un chico con menos de 16 años de edad que inició el mundo de las computadoras desde el 2020, creando su primer bot, "Spectre", luego inició con "NekoBot" luego "IamNotAbot" y su última creación "KillerBot"; más conocido en la comunidad como "Tostadora"; me gusta la música, de hecho, se tocar 4 instrumentos que son el violín (iniciando), piano (medio), flauta dulce, guitarra (iniciando) y además, intento ser productor músicial.
+I'm a teenager who wants to create unusual things using computers. When I was 10 years old, I wrote my first "Hello, World!" program. A few years ago, I also built a traffic light system using Arduino. These experiences sparked my interest in science and engineering, and I've considered studying fields such as informatics, pharmaceutical chemistry, computer science, and mechatronics (my current goal). I want to create weird but useful projects that everyone can enjoy and use. :)
 
 <div align="center" style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /></div>
 <div align="center">
