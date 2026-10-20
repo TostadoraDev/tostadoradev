@@ -72,7 +72,7 @@
       <code>Luau</code>
     </td>
     <td align="center">
-      <code>HTML/Css/JavaScript/Python</code>
+      <code>HTML/Css/JS/Py</code>
     </td>
   </tr>
   <tr>
