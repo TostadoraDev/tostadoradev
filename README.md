@@ -115,7 +115,7 @@
       <sub>Omar Courtz</sub>
     </td>
     <td align="center" valign="top" width="175">
-      <a href="https://open.spotify.com/intl-es/album/4FftCsAcXXD1nFO9RFUNFO"><img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e022ea1f035463d11e1fc3b193d" width="145" alt="nadie sabe lo que va a pasar mañana album cover" /></a><br/>
+      <a href="https://open.spotify.com/intl-es/album/4FftCsAcXXD1nFO9RFUNFO"><img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e022ea1f035463d11e1fc3b193d" width="145" alt="nadie sabe lo que va a pasar mañana album cover" /></a><br/>
       <strong>nadie sabe lo que va a pasar mañana</strong><br/>
       <sub>Bad Bunny</sub>
     </td>
@@ -132,7 +132,7 @@
       <sub>Sabrina Carpenter</sub>
     </td>
     <td align="center" valign="top" width="175">
-      <a href="https://open.spotify.com/intl-es/album/3jB9yFDwRe3KhtGnHXJntk"><img src="https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e021e9a057052d59004caf47e22" width="145" alt="PRISM album cover" /></a><br/>
+      <a href="https://open.spotify.com/intl-es/album/3jB9yFDwRe3KhtGnHXJntk"><img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e021e9a057052d59004caf47e22" width="145" alt="PRISM album cover" /></a><br/>
       <strong>PRISM</strong><br/>
       <sub>Katy Perry</sub>
     </td>
